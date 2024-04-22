@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+main, #NavigationMenu {
+    @apply mx-auto container border-black border-solid border-2 shadow-frame bg-white p-8 rounded-sm ;
+}
